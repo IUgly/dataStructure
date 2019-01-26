@@ -45,8 +45,9 @@ class CaseInsensitiveCompare implements Comparator<String>
 }
 class TestProgram
 {
-    public static void main(String[] args) {
-        String[] arr = { "ZEBRA", "alligator", "crocodile"};
-        System.out.println( FindMaxDemo.findMax( arr, new CaseInsensitiveCompare()));
-    }
+//    public static void main(String[] args) {
+//        String[] arr = { "ZEBRA", "alligator", "crocodile"};
+//        System.out.println( FindMaxDemo.findMax( arr, new CaseInsensitiveCompare()));
+//    }
+
 }
