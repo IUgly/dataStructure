@@ -1,4 +1,4 @@
-package lambda;
+package lambda.vo;
 
 public class User {
     private Integer age;

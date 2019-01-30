@@ -1,6 +1,7 @@
 package lambda;
 
 import com.google.gson.Gson;
+import lambda.vo.User;
 
 import java.util.Arrays;
 import java.util.Comparator;
@@ -13,15 +14,26 @@ public class MaxAndMin {
                 new User(18, "li"),
                 new User(22, "wang"));
 
-        User shortAgeUser = userList.stream()
-                .min(Comparator.comparing(user -> user.getAge()))
-                .get();
+        //min
+//        User shortAgeUser = userList.stream()
+//                .min(Comparator.comparing(user -> user.getAge()))
+//                .get();
+        //max
         User bigAgeUser = userList.stream()
                 .max(Comparator.comparing(user -> user.getAge()))
                 .get();
+        //通用模式
+        User shortAgeUser = userList.get(0);
+        for (User user : userList){
+            if (user.getAge() < shortAgeUser.getAge()){
+                shortAgeUser = user;
+            }
+        }
+
         Gson gson = new Gson();
         System.out.println(gson.toJson(shortAgeUser));
         System.out.println(gson.toJson(bigAgeUser));
+
 
     }
 }
