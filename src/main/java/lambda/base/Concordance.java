@@ -1,4 +1,4 @@
-package lambda;
+package lambda.base;
 
 import com.google.gson.Gson;
 import lambda.vo.User;
@@ -26,4 +26,5 @@ public class Concordance {
         Gson gson = new Gson();
         System.out.println(gson.toJson(zhangs));
     }
+
 }

@@ -1,4 +1,4 @@
-package lambda;
+package lambda.base;
 
 import com.google.gson.Gson;
 import lambda.vo.User;

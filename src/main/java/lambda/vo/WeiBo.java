@@ -5,6 +5,7 @@ import java.util.List;
 public class WeiBo {
     private String text;
     private List<Comment> commentList;
+    private String type;
 
     public String getText() {
         return text;

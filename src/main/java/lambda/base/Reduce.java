@@ -1,4 +1,4 @@
-package lambda;
+package lambda.base;
 
 import java.util.function.BinaryOperator;
 import java.util.stream.Stream;
