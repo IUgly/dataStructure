@@ -1,3 +1,5 @@
+package datastructure;
+
 import javafx.scene.shape.Circle;
 import javafx.scene.shape.Rectangle;
 import javafx.scene.shape.Shape;
@@ -47,7 +49,7 @@ class TestProgram
 {
 //    public static void main(String[] args) {
 //        String[] arr = { "ZEBRA", "alligator", "crocodile"};
-//        System.out.println( FindMaxDemo.findMax( arr, new CaseInsensitiveCompare()));
+//        System.out.println( datastructure.FindMaxDemo.findMax( arr, new datastructure.CaseInsensitiveCompare()));
 //    }
 
 }
