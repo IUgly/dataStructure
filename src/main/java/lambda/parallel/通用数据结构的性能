@@ -1,0 +1,19 @@
+
+
+
+性能好：
+        ArrayList，数组和IntStream.range。这些数据
+        结构支持随机读取，它们可以被轻而易举地被分解
+
+
+性能一般：
+        HashSet, TreeSet, 不易被分解
+
+性能差：
+        LinkedList, Streams.iterate,
+        BufferedReader.lines。 长度未知，难以分解。
+
+
+流中单独操作每一块的种类时， 可以分成两种操作
+                                        无状态 : map, filter, flatMap      (更优)
+                                        有状态 : sorted, distinct, limit

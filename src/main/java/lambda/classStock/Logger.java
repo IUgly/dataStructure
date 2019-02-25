@@ -1,4 +1,4 @@
-package lambda;
+package lambda.classStock;
 
 public class Logger {
     private Integer debug;

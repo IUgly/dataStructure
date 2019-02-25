@@ -9,6 +9,7 @@ import java.util.stream.Stream;
 
 public class Filter {
     public static void main(String[] args) {
+        //找出集合中符合条件的字符串
 //        List<String> beginningWithNumbers = new ArrayList<>();
 //        for (String value : Arrays.asList("a", "1abc", "abc1")){
 //            if (value.charAt(0)>='0'&&value.charAt(0)<='9'){

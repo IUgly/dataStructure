@@ -16,7 +16,7 @@ public class RefactoringDemo {
     public Set<String> findHotComment(List<WeiBo> weiBos){
         Set<String> hotComment = new HashSet<>();
         for (WeiBo weiBo : weiBos){
-            for (Comment comment : weiBo.getCommentList()){
+            for (Comment comment : weiBo.getCommentList().collect(Collectors.toList())){
                 if (comment.getUpVote()>100){
                     hotComment.add(comment.getText());
                 }
@@ -45,7 +45,6 @@ public class RefactoringDemo {
         weiBos.stream()
                 .forEach(weiBo -> {
                     weiBo.getCommentList()
-                            .stream()
                             .filter(comment -> comment.getUpVote() >100)
                             .map(comment -> comment.getText())
                             .forEach(text -> hotComment.add(text));
@@ -57,7 +56,7 @@ public class RefactoringDemo {
         Set<String> hotComment = new HashSet<>();
 
         weiBos.stream()
-                .flatMap(weiBo -> weiBo.getCommentList().stream())
+                .flatMap(weiBo -> weiBo.getCommentList())
                 .filter(comment -> comment.getUpVote() > 100)
                 .map(comment -> comment.getText())
                 .forEach(text -> hotComment.add(text));
@@ -66,15 +65,14 @@ public class RefactoringDemo {
     //改进forEach，替换为collect⬇️  🐂
     public Set<String> findHotCommentByBest(List<WeiBo> weiBos){
         return weiBos.stream()
-                .flatMap(weiBo -> weiBo.getCommentList().stream())
+                .flatMap(weiBo -> weiBo.getCommentList())
                 .filter(comment -> comment.getUpVote() > 100)
                 .map(comment -> comment.getText())
                 .collect(Collectors.toSet());
     }
 
     public Integer getUserAllUpVoteNum(List<Comment> commentList){
-//        return commentList.stream()
-//                .map(comment -> comment.getUpVote())
+//        return commentList.stream();
         return 1;
     }
 

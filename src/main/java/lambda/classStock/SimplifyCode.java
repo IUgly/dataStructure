@@ -1,4 +1,4 @@
-package lambda;
+package lambda.classStock;
 
 public class SimplifyCode {
     public void reduceLogConsumption(){
