@@ -7,8 +7,118 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70aa18e3-2899-4d45-b6b5-2ce01b706b2d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastructure/sorting/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructure/sorting/Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin" beforeDir="false" afterPath="$PROJECT_DIR$/bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/allendowney/thinkdast/Card.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/allendowney/thinkdast/HelloJsoup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/allendowney/thinkdast/Index.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/allendowney/thinkdast/IndexTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/allendowney/thinkdast/JedisIndex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/allendowney/thinkdast/JedisIndexTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/allendowney/thinkdast/JedisMaker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/allendowney/thinkdast/JedisTermCounter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/allendowney/thinkdast/JedisTermCounterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/allendowney/thinkdast/LinkedListExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/allendowney/thinkdast/ListClientExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/allendowney/thinkdast/ListClientExampleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/allendowney/thinkdast/ListLinks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/allendowney/thinkdast/ListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/allendowney/thinkdast/ListSorter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/allendowney/thinkdast/ListSorterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/allendowney/thinkdast/MyArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/allendowney/thinkdast/MyArrayListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/allendowney/thinkdast/MyBetterMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/allendowney/thinkdast/MyBetterMapTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/allendowney/thinkdast/MyFixedHashMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/allendowney/thinkdast/MyFixedHashMapTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/allendowney/thinkdast/MyHashMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/allendowney/thinkdast/MyHashMapTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/allendowney/thinkdast/MyLinearMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/allendowney/thinkdast/MyLinearMapTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/allendowney/thinkdast/MyLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/allendowney/thinkdast/MyLinkedListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/allendowney/thinkdast/MyTreeMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/allendowney/thinkdast/MyTreeMapExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/allendowney/thinkdast/MyTreeMapTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/allendowney/thinkdast/Page.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/allendowney/thinkdast/SelectionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/allendowney/thinkdast/SillyArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/allendowney/thinkdast/SillyString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/allendowney/thinkdast/TermCounter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/allendowney/thinkdast/TermCounterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/allendowney/thinkdast/WikiCrawler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/allendowney/thinkdast/WikiCrawlerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/allendowney/thinkdast/WikiFetcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/allendowney/thinkdast/WikiNodeExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/allendowney/thinkdast/WikiNodeIterable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/allendowney/thinkdast/WikiParser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/allendowney/thinkdast/WikiParserTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/allendowney/thinkdast/WikiPhilosophy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/allendowney/thinkdast/WikiPhilosophyTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/allendowney/thinkdast/WikiSearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/com/allendowney/thinkdast/WikiSearchTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/datastructure/FindMaxDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/datastructure/MyArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/datastructure/sorting/Sort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/jvm/HeapOOM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/jvm/JavaMethodAreaOOM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/jvm/JavaVMStackSOF.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/jvm/ReferenceCountingGC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/jvm/RuntimeConstantPoolOOM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/lambda/base/Concordance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/lambda/base/Filter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/lambda/base/FlatMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/lambda/base/InnerIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/lambda/base/MaxAndMin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/lambda/base/Reduce.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/lambda/base/RefactoringDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/lambda/classStock/Logger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/lambda/classStock/MapToInt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/lambda/classStock/OptionalTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/lambda/classStock/SimplifyCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/lambda/classStock/exercise/CommentFix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/lambda/classStock/exercise/Performance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/lambda/classStock/exercise/PerformanceFix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/lambda/parallel/ArrayDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/lambda/parallel/ManualDiceRolls.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/lambda/parallel/ParallelDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/lambda/parallel/exercise/BuggyReduce.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/lambda/parallel/exercise/OptimisationExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/lambda/parallel/exercise/SerialToParallel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/lambda/refactoring/DaoImp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/lambda/refactoring/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/lambda/refactoring/Testing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/lambda/refactoring/vo/Album.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/lambda/refactoring/vo/Artist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/lambda/refactoring/vo/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/lambda/refactoring/vo/Performance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/lambda/refactoring/vo/Track.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/lambda/seniorCollect/CollectionDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/lambda/seniorCollect/CombinationCollector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/lambda/seniorCollect/StringCollector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/lambda/seniorCollect/StringDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/lambda/seniorCollect/exercise/Fibonacci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/lambda/seniorCollect/exercise/GroupingBy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/lambda/seniorCollect/exercise/LongestName.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/lambda/seniorCollect/exercise/WordCount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/lambda/vo/BoWen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/lambda/vo/Comment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/lambda/vo/SampleData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/lambda/vo/StringCombiner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/lambda/vo/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/lambda/vo/UsualAES.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/main/java/lambda/vo/WeiBo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/test/java/test/UserTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataStructureStudy.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/dataStructureStudy_war_exploded/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/dataStructureStudy_war_exploded/index.jsp" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -105,41 +215,50 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-721491416">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.24" value="3" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="38" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="38" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="31788" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="31788" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/base/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85356">
-              <caret line="4829" column="23" selection-start-line="4829" selection-start-column="23" selection-end-line="4829" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lambda/parallel/exercise/OptimisationExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lambda/parallel/exercise/SerialToParallel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lambda/vo/UsualAES.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2718">
-              <caret line="163" column="17" selection-start-line="163" selection-start-column="17" selection-end-line="163" selection-end-column="17" />
+            <state relative-caret-position="1674">
+              <caret line="93" column="41" selection-start-line="93" selection-start-column="41" selection-end-line="93" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -148,28 +267,89 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/datastructure/FindMaxDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/base/tree/BST.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            <state relative-caret-position="278">
+              <caret line="187" lean-forward="true" selection-start-line="154" selection-end-line="187" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/datastructure/sorting/排序算法">
+        <entry file="file://$PROJECT_DIR$/src/main/java/base/setandmap/Set.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+            <state relative-caret-position="64">
+              <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/base/setandmap/Map.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/base/setandmap/LinkedListMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+              <folding>
+                <element signature="e#252#253#0" expanded="true" />
+                <element signature="e#280#281#0" expanded="true" />
+                <element signature="e#445#446#0" expanded="true" />
+                <element signature="e#469#470#0" expanded="true" />
+                <element signature="e#515#516#0" expanded="true" />
+                <element signature="e#543#544#0" expanded="true" />
+                <element signature="e#817#818#0" expanded="true" />
+                <element signature="e#842#843#0" expanded="true" />
+                <element signature="e#893#894#0" expanded="true" />
+                <element signature="e#931#932#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/datastructure/sorting/Sort.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/base/setandmap/BSTMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="187" column="19" lean-forward="true" selection-start-line="187" selection-start-column="19" selection-end-line="187" selection-end-column="19" />
+            <state relative-caret-position="72">
+              <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+              <folding>
+                <element signature="e#287#288#0" expanded="true" />
+                <element signature="e#314#315#0" expanded="true" />
+                <element signature="e#1301#1302#0" expanded="true" />
+                <element signature="e#1329#1330#0" expanded="true" />
+                <element signature="e#1584#1585#0" expanded="true" />
+                <element signature="e#1608#1609#0" expanded="true" />
+                <element signature="e#1654#1655#0" expanded="true" />
+                <element signature="e#1682#1683#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/base/setandmap/BSTSet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/base/setandmap/LinkedListSet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -178,28 +358,23 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/base/list/Sum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7362">
-              <caret line="447" column="24" selection-start-line="447" selection-start-column="24" selection-end-line="447" selection-end-column="24" />
+            <state relative-caret-position="324">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="e#108#109#0" expanded="true" />
+                <element signature="e#142#143#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lambda/parallel/ParallelDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/base/Queue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/function/IntFunction.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+            <state relative-caret-position="36">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -219,46 +394,25 @@
       <find>s</find>
       <find>isem</find>
       <find>con</find>
+      <find>remo</find>
+      <find>add</find>
+      <find>re</find>
+      <find>remobe</find>
+      <find>minimum</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/base/setandmap/BSTMap.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/dyramic/Dyramic.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/listandtree/ListProblem.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/bytedance/LRU.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/lambda/SimplifyCode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lambda/vo/Statistics.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lambda/MapToInt.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lambda/Optional.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lambda/OptionalTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lambda/ClassStock/OptionalTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lambda/ClassStock/exercise/PerformanceFix.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lambda/vo/SampleData.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lambda/ClassStock/exercise/CommentFix.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lambda/ClassStock/exercise/UserTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lambda/ClassStock/MapToInt.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lambda/base/RefactoringDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lambda/vo/WeiBo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lambda/seniorCollect/CollectionDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lambda/base/Filter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lambda/vo/Comment.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lambda/ClassStock/exercise/Performance.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lambda/vo/User.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lambda/vo/BoWen.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lambda/vo/StringCombiner.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lambda/seniorCollect/StringCollector.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lambda/seniorCollect/StringDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lambda/seniorCollect/CombinationCollector.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lambda/seniorCollect/GroupingBy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lambda/seniorCollect/exercise/GroupingBy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lambda/seniorCollect/exercise/LongestName.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lambda/seniorCollect/exercise/WordCount.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lambda/seniorCollect/exercise/Fibonacci.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lambda/parallel/ParallelDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lambda/parallel/ManualDiceRolls.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lambda/parallel/通用数据结构的性能" />
-        <option value="$PROJECT_DIR$/src/main/java/lambda/parallel/exercise/SerialToParallel.java" />
         <option value="$PROJECT_DIR$/src/main/java/lambda/parallel/exercise/BuggyReduce.java" />
         <option value="$PROJECT_DIR$/src/main/java/lambda/parallel/exercise/OptimisationExample.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/allendowney/thinkdast/ProfileMapPut.java" />
@@ -278,6 +432,38 @@
         <option value="$PROJECT_DIR$/src/main/java/lambda/vo/UsualAES.java" />
         <option value="$PROJECT_DIR$/src/main/java/datastructure/sorting/排序算法" />
         <option value="$PROJECT_DIR$/src/main/java/datastructure/sorting/Sort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dyramic/Dyramic.java" />
+        <option value="$PROJECT_DIR$/src/main/java/listAndtree/ListProblem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/listandtree/ListProblem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bytedance/MinStack.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bytedance/Sqrt.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bytedance/UTF.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tree/TreeProblem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tree/TrieNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bytedance/LRU.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bytedance/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/base/Stack.java" />
+        <option value="$PROJECT_DIR$/src/main/java/base/ArrayStack.java" />
+        <option value="$PROJECT_DIR$/src/main/java/base/Queue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/base/Array.java" />
+        <option value="$PROJECT_DIR$/src/main/java/base/ArrayQueque.java" />
+        <option value="$PROJECT_DIR$/src/main/java/base/LoopQueue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/base/LoopArrayQueue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/stringproblem/StringProblem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/base/LinkedListStack.java" />
+        <option value="$PROJECT_DIR$/src/main/java/base/LinkedList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/base/LinkedListQueue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/base/list/Sum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/base/tree/Tree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/base/tree/BST.java" />
+        <option value="$PROJECT_DIR$/src/main/java/base/list/LinkedList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/base/setandmap/LinkedListSet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/base/setandmap/BSTSet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/base/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/base/setandmap/Set.java" />
+        <option value="$PROJECT_DIR$/src/main/java/base/setandmap/Map.java" />
+        <option value="$PROJECT_DIR$/src/main/java/base/setandmap/LinkedListMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/base/setandmap/BSTMap.java" />
       </list>
     </option>
   </component>
@@ -301,7 +487,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="777" />
@@ -315,6 +501,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -346,7 +534,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="datastructure" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dataStructure" type="b2602c69:ProjectViewProjectNode" />
@@ -354,22 +542,65 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="datastructure" type="462c0819:PsiDirectoryNode" />
-              <item name="sorting" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="arr" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dataStructure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="list" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dataStructure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="setandmap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dataStructure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="Solution.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="dataStructure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dataStructure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="stringproblem" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="removeE&#9;PSI&#9;JAVA://base.arr.Array#removeElement" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558053413911" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570887112820" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -399,13 +630,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Sort">
-    <configuration name="ManualDiceRolls" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambda.parallel.ManualDiceRolls" />
+  <component name="RunManager" selected="Application.LinkedListMap">
+    <configuration name="BST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="base.tree.BST" />
       <module name="dataStructureStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambda.parallel.*" />
+          <option name="PATTERN" value="base.tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -413,12 +644,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructure.sorting.Sort" />
+    <configuration name="LinkedListMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="base.setandmap.LinkedListMap" />
       <module name="dataStructureStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datastructure.sorting.*" />
+          <option name="PATTERN" value="base.setandmap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -426,12 +657,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UsualAES" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambda.vo.UsualAES" />
+    <configuration name="LinkedListSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="base.setandmap.LinkedListSet" />
       <module name="dataStructureStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambda.vo.*" />
+          <option name="PATTERN" value="base.setandmap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -439,32 +670,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="base.Solution" />
       <module name="dataStructureStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="base.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.UserTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserTest.twoLetterStringConvertedToUpperCaseLambdas" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="base.list.Sum" />
       <module name="dataStructureStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="base.list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.UserTest" />
-      <option name="METHOD_NAME" value="twoLetterStringConvertedToUpperCaseLambdas" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -544,19 +771,19 @@
     </configuration>
     <list>
       <item itemvalue="Tomcat Server.Unnamed" />
-      <item itemvalue="JUnit.UserTest" />
-      <item itemvalue="JUnit.UserTest.twoLetterStringConvertedToUpperCaseLambdas" />
-      <item itemvalue="Application.ManualDiceRolls" />
-      <item itemvalue="Application.UsualAES" />
-      <item itemvalue="Application.Sort" />
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Sum" />
+      <item itemvalue="Application.BST" />
+      <item itemvalue="Application.LinkedListSet" />
+      <item itemvalue="Application.LinkedListMap" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Sort" />
-        <item itemvalue="Application.UsualAES" />
-        <item itemvalue="Application.ManualDiceRolls" />
-        <item itemvalue="JUnit.UserTest.twoLetterStringConvertedToUpperCaseLambdas" />
-        <item itemvalue="JUnit.UserTest" />
+        <item itemvalue="Application.LinkedListMap" />
+        <item itemvalue="Application.LinkedListSet" />
+        <item itemvalue="Application.BST" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Sum" />
       </list>
     </recent_temporary>
   </component>
@@ -599,6 +826,16 @@
       <workItem from="1558005112195" duration="1100000" />
       <workItem from="1558010933609" duration="256000" />
       <workItem from="1558049548323" duration="2374000" />
+      <workItem from="1569833041005" duration="3707000" />
+      <workItem from="1570275264018" duration="3506000" />
+      <workItem from="1570327891383" duration="570000" />
+      <workItem from="1570328926267" duration="24809000" />
+      <workItem from="1570434904767" duration="12710000" />
+      <workItem from="1570619151586" duration="6698000" />
+      <workItem from="1570689584618" duration="267000" />
+      <workItem from="1570795561550" duration="7235000" />
+      <workItem from="1570838212547" duration="20504000" />
+      <workItem from="1570883504780" duration="3600000" />
     </task>
     <servers />
   </component>
@@ -623,13 +860,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100199000" />
+    <option name="totallyTimeSpent" value="183805000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="777" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="777" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28917608" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21890146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -639,16 +876,16 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329927" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.18832117" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7851373" visible="true" weight="0.33430657" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.861874" weight="0.33868614" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.329927" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.21486267" side_tool="true" visible="true" weight="0.33430657" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4983845" weight="0.32846716" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Application Servers" order="13" weight="0.329927" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -660,6 +897,8 @@
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="PlantUML" order="9" />
+      <window_info anchor="right" id="leetcode" order="10" side_tool="true" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -677,212 +916,16 @@
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/base/setandmap/LinkedListMap.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/allendowney/thinkdast/TermCounter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/allendowney/thinkdast/TermCounterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/allendowney/thinkdast/WikiCrawler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/allendowney/thinkdast/WikiCrawlerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/allendowney/thinkdast/WikiFetcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/allendowney/thinkdast/WikiNodeIterable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/allendowney/thinkdast/WikiParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/allendowney/thinkdast/WikiParserTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/allendowney/thinkdast/WikiPhilosophy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/allendowney/thinkdast/WikiPhilosophyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/allendowney/thinkdast/WikiSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/allendowney/thinkdast/WikiSearchTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/allendowney/thinkdast/MyArrayListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="293" selection-start-line="293" selection-end-line="293" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/allendowney/thinkdast/ProfileMapPut.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/allendowney/thinkdast/JedisIndex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/allendowney/thinkdast/JedisIndexTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/allendowney/thinkdast/JedisTermCounterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/allendowney/thinkdast/MyArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2358">
-          <caret line="137" column="32" selection-start-line="137" selection-start-column="32" selection-end-line="137" selection-end-column="32" />
-          <folding>
-            <element signature="e#2319#2320#0" expanded="true" />
-            <element signature="e#2351#2352#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1566">
-          <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/allendowney/thinkdast/IndexTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/allendowney/thinkdast/WikiNodeExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/allendowney/thinkdast/SillyString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lambda/refactoring/vo/goods.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/datastructure/MyArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1314">
-          <caret line="109" column="15" selection-start-line="109" selection-start-column="15" selection-end-line="109" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lambda/refactoring/DaoImp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lambda/refactoring/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lambda/refactoring/vo/Order.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lambda/refactoring/Testing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lambda/refactoring/vo/Album.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lambda/refactoring/vo/Artist.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lambda/refactoring/vo/Track.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -910,9 +953,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/通用AES加密/AES_CBC_android_java_ios_.net通用模式/UsualAES.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$USER_HOME$/Downloads/通用AES加密/AES_CBC_android_java_ios_.net通用模式/UsualAES.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/lambda/parallel/ManualDiceRolls.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="954">
@@ -941,16 +982,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/out/artifacts/dataStructureStudy_war_exploded/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85356">
-          <caret line="4829" column="23" selection-start-line="4829" selection-start-column="23" selection-end-line="4829" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/out/artifacts/dataStructureStudy_war_exploded/WEB-INF/web.xml" />
     <entry file="file://$PROJECT_DIR$/src/main/java/lambda/parallel/exercise/OptimisationExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
@@ -969,9 +1001,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2718">
           <caret line="163" column="17" selection-start-line="163" selection-start-column="17" selection-end-line="163" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -986,6 +1015,95 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/datastructure/sorting/Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3114">
+          <caret line="174" column="22" selection-start-line="174" selection-start-column="22" selection-end-line="174" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dyramic/Dyramic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5670">
+          <caret line="315" column="9" selection-start-line="315" selection-start-column="9" selection-end-line="315" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/listandtree/ListProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2682">
+          <caret line="153" column="31" selection-start-line="153" selection-start-column="31" selection-end-line="153" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3878#3879#0" expanded="true" />
+            <element signature="e#3930#3931#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bytedance/MinStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/javax/swing/tree/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bytedance/LRU.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="954">
+          <caret line="55" column="29" selection-start-line="55" selection-start-column="29" selection-end-line="55" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bytedance/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bytedance/Sqrt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bytedance/UTF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="40" column="24" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tree/TrieNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          <folding>
+            <element signature="e#105#106#0" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67086">
+          <caret line="3798" column="32" selection-start-line="3798" selection-start-column="32" selection-end-line="3798" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -1010,12 +1128,239 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/datastructure/sorting/Sort.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/stringproblem/StringProblem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="187" column="19" lean-forward="true" selection-start-line="187" selection-start-column="19" selection-end-line="187" selection-end-column="19" />
+        <state relative-caret-position="1115">
+          <caret line="74" column="22" lean-forward="true" selection-start-line="74" selection-start-column="22" selection-end-line="74" selection-end-column="22" />
+          <folding>
+            <element signature="e#5102#5103#0" expanded="true" />
+            <element signature="e#5189#5190#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/base/list/LinkedListQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="e#108#109#0" expanded="true" />
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#834#835#0" expanded="true" />
+            <element signature="e#868#869#0" expanded="true" />
+            <element signature="e#893#894#0" expanded="true" />
+            <element signature="e#933#934#0" expanded="true" />
+            <element signature="e#987#988#0" expanded="true" />
+            <element signature="e#1030#1031#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/base/list/LinkedListStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#412#413#0" expanded="true" />
+            <element signature="e#295#296#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/base/arr/ArrayQueque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/base/arr/ArrayStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/base/arr/LoopArrayQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#1059#1060#0" expanded="true" />
+            <element signature="e#1093#1094#0" expanded="true" />
+            <element signature="e#1114#1115#0" expanded="true" />
+            <element signature="e#1148#1149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/base/arr/LoopQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#397#398#0" expanded="true" />
+            <element signature="e#430#431#0" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/base/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/base/arr/Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1980">
+          <caret line="120" selection-start-line="120" selection-end-line="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/base/list/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1656">
+          <caret line="102" column="16" selection-start-line="102" selection-start-column="16" selection-end-line="102" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/base/tree/Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/base/list/Sum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#108#109#0" expanded="true" />
+            <element signature="e#142#143#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/base/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/base/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1674">
+          <caret line="93" column="41" selection-start-line="93" selection-start-column="41" selection-end-line="93" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/base/setandmap/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/base/setandmap/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/base/setandmap/BSTSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/base/setandmap/LinkedListSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/base/tree/BST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="187" lean-forward="true" selection-start-line="154" selection-end-line="187" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/base/setandmap/LinkedListMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding>
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#445#446#0" expanded="true" />
+            <element signature="e#469#470#0" expanded="true" />
+            <element signature="e#515#516#0" expanded="true" />
+            <element signature="e#543#544#0" expanded="true" />
+            <element signature="e#817#818#0" expanded="true" />
+            <element signature="e#842#843#0" expanded="true" />
+            <element signature="e#893#894#0" expanded="true" />
+            <element signature="e#931#932#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/base/setandmap/BSTMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+          <folding>
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#1301#1302#0" expanded="true" />
+            <element signature="e#1329#1330#0" expanded="true" />
+            <element signature="e#1584#1585#0" expanded="true" />
+            <element signature="e#1608#1609#0" expanded="true" />
+            <element signature="e#1654#1655#0" expanded="true" />
+            <element signature="e#1682#1683#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1079,6 +1424,7 @@
             <option name="proportions">
               <list>
                 <option value="0.38850576" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
